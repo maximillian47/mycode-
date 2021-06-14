@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 print("What kind of warrior are you?")
 
 score = 0
